@@ -1,0 +1,29 @@
+# Compiled object files
+*.o
+*.out
+*.obj
+*.exe
+
+# Libraries
+*.a
+*.so
+*.dll
+
+# Logs
+*.log
+
+# Build artifacts
+/build
+/bin
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+
+# Docker
+*.pid
